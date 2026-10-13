@@ -1,122 +1,73 @@
-# Hi, I'm Ayda 👋
+# Aida Fateh
 
-### 💻 Computer Engineering Student · 🐍 Python Developer in Progress
+### Python Developer in Progress · Computer Engineering Student
 
-I'm a Computer Engineering student building my programming skills step by step.
+Building practical projects, strengthening Python, and growing toward backend engineering.
 
-Currently focused on **Python, Git & GitHub**, with a long-term goal of becoming a strong backend developer.
-
----
-
-## 🐍 My Python Journey
-
-I'm documenting my Python learning journey through exercises, experiments, and projects.
-
-| Stage                  | Focus                                 | Status      |
-| ---------------------- | ------------------------------------- | ----------- |
-| 🟢 Python Basics       | Fundamentals & problem solving        | In Progress |
-| 🟡 Python Intermediate | OOP, files, APIs, databases & testing | In Progress |
-| ⚪ Python Advanced      | Advanced Python & backend development | Coming Soon |
-
-### 📚 Learning Path
-
-```text
-Python Basics
-      ↓
-Python Intermediate
-      ↓
-Python Advanced
-      ↓
-SQL & Databases
-      ↓
-Linux
-      ↓
-Backend Development
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learning-0B1F3A?style=for-the-badge&logo=linux&logoColor=00BFFF)
 
 ---
 
-## 🚀 Featured Learning Repositories
+## About Me
 
-### 🐍 Python Basics
+I'm a Computer Engineering student focused on Python and practical software development. I learn by building projects and improving my problem-solving skills step by step.
 
-Fundamentals, exercises and small projects.
+- 🎓 Computer Engineering student
+- 🐍 Python Basics and Intermediate Python completed
+- 📚 Currently learning Advanced Python
+- 🧩 Knowledge of Data Structures and Algorithms
+- 🏗️ Practicing Object-Oriented Programming
+- 🐧 Learning Linux in a virtual machine
+- 🛠️ Tools: PyCharm, VS Code, Terminal, PowerShell, Git and GitHub
+- 🌐 Familiar with HTML and CSS
 
-→ [python-basics](https://github.com/aydafateh/python-basics)
+## Tech Stack
 
-### 🧩 Python Intermediate
+**Languages & Web**
 
-More practical projects covering OOP, file handling, APIs, databases and testing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-→ [python-intermediate](https://github.com/aydafateh/python-intermediate)
+**Tools & Environment**
 
-### 🚀 Python Advanced
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-0B1F3A?style=flat-square&logo=pycharm&logoColor=00BFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learning-0B1F3A?style=flat-square&logo=linux&logoColor=00BFFF)
 
-Advanced Python concepts and larger projects.
+## Featured Repositories
 
-→ Coming soon
+### 🐍 [Python Basics](https://github.com/aydafateh/python-basics)
+Exercises and small projects covering Python fundamentals.
 
----
+### 🧩 [Python Intermediate](https://github.com/aydafateh/python-intermediate)
+Practice code and projects as I build on my Python foundation.
 
-## 🛠️ Technologies & Tools
+### 🏦 USSD Banking Application
+A command-line banking project for practicing classes, object-oriented programming, input validation, and account operations.
 
-### Languages
+### 🧮 Python Calculator
+A small project for practicing Python fundamentals and program logic.
 
-`Python` `HTML` `CSS` `JavaScript`
+[**Explore all my repositories →**](https://github.com/aydafateh?tab=repositories)
 
-### Currently Learning
+## Current Focus
 
-`Python` `Git` `GitHub`
+- Advanced Python
+- Linux fundamentals and command-line tools
+- Writing readable, reusable code
+- Building practical projects and improving problem-solving
 
-### Future
+## My Roadmap
 
-`SQL` `Linux` `FastAPI` `Django` `Backend Development`
-
----
-
-## 📂 What You'll Find Here
-
-```text
-🐍 Python
-├── Fundamentals
-├── Problem Solving
-├── OOP
-├── File Handling
-├── APIs
-├── Databases
-├── Testing
-└── Advanced Python
-
-🔧 Developer Tools
-├── Git
-├── GitHub
-└── Linux
-
-🚀 Future
-└── Backend Development
-```
+**Python → Backend Development → Databases & APIs → AI Engineering**
 
 ---
 
-## 🌱 Currently
-
-```text
-Learning → Python
-Practicing → Git & GitHub
-Building → Small Python Projects
-Working toward → Backend Development
-```
-
----
-
-## 📈 My Goal
-
-> Learn consistently. Build real projects. Keep improving.
-
-This profile is a record of my progress from learning the fundamentals to building real-world software.
-
----
-
-## 🤝 Let's Connect
-
-GitHub: [@aydafateh](https://github.com/aydafateh)
+<div align="center">
+  <sub>LEARN WITH PURPOSE · BUILD WITH CARE · IMPROVE EVERY DAY</sub>
+</div>
